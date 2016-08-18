@@ -1,0 +1,9 @@
+----------------------
+HITMAN: SILENT ASSASIN
+----------------------
+ 
+A: Start Game
+B: Load Game
+C: Instructions
+Q: Quit
+ 

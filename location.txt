@@ -1,0 +1,35 @@
+Front Gate: You are outside the front gate. The dirt road ends here.
+Dirt road . . . north bound.
+Dirt road: To the west is a forest. The dirt road extends further north.
+Hill Bottom (West): You are at the bottom of the hill. The dirt road extends far to the north.
+On Hill: You are standing on top of a hill in the middle of a forest. Ahead lies a gated mansion surrounded by tall brick walls. A narrow dirt road trails along the wall connecting the front gate to the back entrance. The road disappears into the forest.
+Living room: The front door opens into the living room. There are two other doors here: one to the west, and the other to the south. 
+Kitchen: You are in a kitchen. There are stairs that lead down to the basement. There's are doors to the north and south.
+Basement (West): The hallway extends east. There is a door to the south.
+Kitchen stairs: You're in the basement. There are stairs going up. To the north is an eastbound hallway.
+Frontyard: You are in the front yard. There is a garage to the south, and the mansion lies to the east of the garage.
+Garage (North): You are in the front yard, outside the garage. The the front door of the mansion lies to the east.
+Garage (South): You are outside the garage. There is a door here.
+Dirt road: The dirt road extends further east.
+Hill Bottom (East): You are at the  east bottom of the hill. The back entrance lies to the east.
+Hallway (North): There's a door to the west at the end of the hallway. The hallway extends to the south.
+Hallway: The hallway extends towards the north and east.
+Basement: The hallway extends east to west. There is a small door to the south.
+Torture room: There is a chair in the middle with straps and chains attached to the legs and arms. There is a small cabinet in the corner. A dim bulb hangs from the ceiling. This must have been where they have been keeping Vittorio, but it appears they have relocated him.
+Garden Entrance: An archway leads into to the garden. You can see the front gate at some distance to the west.
+Mansion (Front): You are at the front door of the mansion. The front gate is to the north west.
+Mansion (South): There is a door here. To the west is the garage. The backyard lies to the east.
+South Entrance: You are at the south entrance. There is a door here. The dirt road disappears into the forest. Near the door is a parked delivery truck. 
+Forest: You're surrounded by trees.
+Office: You're in an office. There are files scattered around filled with nonsense.
+Hallway (South): There is a door to the north. The hallway extends east to west.
+Basement (East): The hallway extends to the west. There is a door to the south.
+Backyard entrance: There is a stairway going up to the south. To the north lies a wooden door.
+Garden (North): There is a swimming pool here.
+Garden: You're in a garden. The house is to the west. There is a swimming pool to the north.
+Stairs: There are stairs going down to the basement. To the north is an archway  that leads into a garden.
+Backyard: You stand in the middle of the backyard. The mansion lies to the north. 
+In the middle of the forest . . .
+Bedroom: You are in the bedroom. The window displays the garden to the east. Besides the pleasant view of the garden, the room is a total mess. 
+Hallway (East): There is a door to the north, and another door lies to the east. The hallway extends to the west.
+Garage: There is a car parked here. It might come in handy . . .

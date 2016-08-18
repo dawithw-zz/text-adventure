@@ -1,0 +1,43 @@
+-----------------------
+System Commands:
+-----------------------
+ 
+start/a: start a new game
+ 
+load/b: load a saved game state
+ 
+save: save current game state
+ 
+restart/reset: restarts from the beginning
+ 
+main/m: exits game to main menu
+ 
+help/c: opens help
+ 
+quit/q: exits game
+ 
+-----------------------
+Game Commands:
+-----------------------
+ 
+go <direction>: go in specified direction.
+ 
+take <item>: add item to inventory
+take <clothes/cloth>: takes delivery guy's clothes
+take <stairs> : take the stairs - go up/down
+ 
+drop <item>: drops item
+ 
+examine <item>: gets item description
+ 
+enter <door>: enter through door
+ 
+unlock <door>: unlocks door if exists
+ 
+shoot <person>: shoots at person
+ 
+inventory: lists items in inventory
+ 
+escape: escape in a car
+ 
+ 
