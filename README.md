@@ -1,4 +1,4 @@
-# text-adventure
+# Hitman: Text-Adventure
 
 Overview: 
 
