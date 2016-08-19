@@ -6,10 +6,7 @@ This was my very first "big" project as a student. It was based on a mission fro
 
 ---------------
 
-Notes:
-
-Game idea take from Hitman 2: Silent Assasin (Level - Anathema), although highly modified.
-A little bit of item details taken from Wikipedia.
+Notes: Game idea take from Hitman 2: Silent Assasin (Level - Anathema), although highly modified.
 
 ---------------
 
