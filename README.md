@@ -1,4 +1,4 @@
-# Hitman: Text-Adventure
+# Hitman 2: Silent Assasin (Text-Adventure)
 
 Overview: 
 
